@@ -1,0 +1,92 @@
+Clique Máxima: 1 2 5 6 9 
+Clique máxima encontrada de tamanho: 5
+Duração: 1.2777e-05
+
+Clique Máxima: 2 7 10 11 13 15 
+Clique máxima encontrada de tamanho: 6
+Duração: 8.2388e-05
+
+Clique Máxima: 1 2 3 7 13 15 16 20 
+Clique máxima encontrada de tamanho: 8
+Duração: 0.000151817
+
+Clique Máxima: 5 10 11 12 13 14 15 18 20 
+Clique máxima encontrada de tamanho: 9
+Duração: 0.00171136
+
+Clique Máxima: 1 4 6 12 14 19 21 23 32 42 50 55 63 72 76 
+Clique máxima encontrada de tamanho: 15
+Duração: 32.2846
+
+Clique Máxima: 1 2 3 7 9 15 18 24 30 
+Clique máxima encontrada de tamanho: 9
+Duração: 0.00254447
+
+Clique Máxima: 1 5 9 10 11 15 16 23 26 28 
+Clique máxima encontrada de tamanho: 10
+Duração: 0.00639748
+
+Clique Máxima: 2 10 11 12 15 16 29 30 32 34 35 40 
+Clique máxima encontrada de tamanho: 12
+Duração: 0.0213514
+
+Clique Máxima: 2 3 4 13 16 18 24 29 34 38 40 
+Clique máxima encontrada de tamanho: 11
+Duração: 0.0422243
+
+Clique Máxima: 4 6 15 20 21 30 37 41 44 45 47 
+Clique máxima encontrada de tamanho: 11
+Duração: 0.0284507
+
+Clique Máxima: 2 7 8 17 20 31 34 37 38 42 45 50 55 
+Clique máxima encontrada de tamanho: 13
+Duração: 0.161162
+
+Clique Máxima: 1 2 5 11 13 14 21 27 30 39 59 
+Clique máxima encontrada de tamanho: 11
+Duração: 0.209796
+
+Clique Máxima: 1 5 28 31 39 43 45 52 54 57 59 61 
+Clique máxima encontrada de tamanho: 12
+Duração: 0.428603
+
+Clique Máxima: 2 5 8 9 19 21 26 32 36 45 50 53 67 
+Clique máxima encontrada de tamanho: 13
+Duração: 0.718544
+
+Clique Máxima: 1 2 5 10 13 31 41 53 58 61 70 73 74 75 
+Clique máxima encontrada de tamanho: 14
+Duração: 0.902861
+
+Clique Máxima: 1 2 3 16 18 20 26 33 36 39 42 48 60 64 
+Clique máxima encontrada de tamanho: 14
+Duração: 3.32974
+
+Clique Máxima: 1 10 13 25 29 33 36 43 46 49 50 54 65 70 
+Clique máxima encontrada de tamanho: 14
+Duração: 2.96029
+
+Clique Máxima: 1 7 9 10 11 35 37 39 47 50 63 65 70 80 86 
+Clique máxima encontrada de tamanho: 15
+Duração: 8.23927
+
+Clique Máxima: 4 7 9 26 30 33 38 39 49 63 66 80 81 85 
+Clique máxima encontrada de tamanho: 14
+Duração: 7.45951
+
+Clique Máxima: 1 14 17 30 53 54 56 60 65 84 86 93 95 100 
+Clique máxima encontrada de tamanho: 14
+Duração: 10.4135
+
+Clique Máxima: 2 3 4 23 24 25 60 64 68 71 72 90 99 104 
+Clique máxima encontrada de tamanho: 14
+Duração: 14.7715
+
+Clique Máxima: 1 21 23 25 26 30 35 50 51 53 55 68 88 96 101 
+Clique máxima encontrada de tamanho: 15
+Duração: 23.7803
+
+Clique Máxima: 3 7 9 10 17 22 28 40 51 53 57 58 68 88 97 99 105 
+Clique máxima encontrada de tamanho: 17
+Duração: 56.883
+

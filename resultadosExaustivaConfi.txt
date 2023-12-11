@@ -1,0 +1,4 @@
+Clique Máxima: 7 18 1 62 44 67 43 71 12 95 
+Clique máxima encontrada de tamanho:10
+Duração: 0.000305353
+
